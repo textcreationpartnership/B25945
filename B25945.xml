@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals to the King and Parliament how this tax of one hundred sixty thousand pounds per moneth, may be raised, by a monethly tax for one year, without any charge to any particular person, and with great advantage to the whole nation : this may be done by setting up banks here, like the banks at Venice / by M. Lewis ...</title>
+            <author>Lewis, M. (Mark), fl. 1678.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25945</idno><idno type="EEBO-CITATION">27404601</idno>
+  <idno type="VID">205745</idno>
+  <idno type="EEBO-PROQUEST">2248541005</idno>
+  
+            <idno type="STC">Wing L1847</idno>
+            <idno type="OCLC">27404601</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals to the King and Parliament how this tax of one hundred sixty thousand pounds per moneth, may be raised, by a monethly tax for one year, without any charge to any particular person, and with great advantage to the whole nation : this may be done by setting up banks here, like the banks at Venice / by M. Lewis ...</title>
+                  <author>Lewis, M. (Mark), fl. 1678.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Banks and banking --  England.</term>
+               <term type="topical_term">Finance, Public --  Great Britain --  To 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205745:1"/>
+            <p>PROPOSALS TO THE <hi>King</hi> and <hi>Parliament,</hi> HOW THIS TAX OF One hundred sixty thousand pounds <hi>per</hi> Moneth, may be raised, by a Monethly TAX for one Year, Without any Charge to any par<g ref="char:EOLhyphen"/>ticular person, and with great advantage to the whole Nation.</p>
+            <p>This may be done, by setting up Banks here, like the Bank at <hi>Venice.</hi>
+            </p>
+            <p>By <hi>M. Lewis,</hi> D. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205745:2"/>
+            <head>Proposals to the KING and PARLIAMENT.</head>
+            <p>NOT many years since the Signiors of <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> ordered the setting up a Bank, where particular persons deposited two millions of Ducates without Interest to be taken out for their occasions, when they thought good, or to be transferred to any other person, as they pleased. The Signiory gave their publick faith, all persons intrusting their money in the hands of their Officers, should be justly dealt withal.</p>
+            <p>In a short time credit in the Bank became bet<g ref="char:EOLhyphen"/>ter than cash in specie, (as it will be in all Banks that have a good Fund) so that no man would take his money out of the Bank; Because he could not at pleasure return it thither again; but rather chose to write off his Credit to those he was in<g ref="char:EOLhyphen"/>debted.</p>
+            <p>Hence these two Millions of Ducates lay dead in the Bank, as the Fund of the credit given out. The Interest and Use of this was clearly lost to the State.</p>
+            <p>The Signiory of <hi>Venice</hi> having occasion for Mo<g ref="char:EOLhyphen"/>ney, took out all these two Millions of Ducates for the publick use, and at the same time gave the
+<pb n="2" facs="tcp:205745:2"/>publick faith, that they would repay these Duc<g ref="char:EOLhyphen"/>cates, whenever there should be occasion for them. In the mean time they ordered, the Cre<g ref="char:EOLhyphen"/>d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the Bank should be currant, as it was be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Not only <hi>Venice,</hi> but all the World did accept this Credit as freely, as if there had been Money in specie to answer all the Credit given out; Nay more, the Credit was not only three or four in the hundred better than money in specie, as it was when there were Ducates in the Bank, but it grew to be worth twenty in the hundred better than Mo<g ref="char:EOLhyphen"/>ney in specie.</p>
+            <p>My Intelligencer assures me, he hath known credit in the Bank to be better than cash in the Chest, twenty eight pound in the hundred.</p>
+            <p>The States found this inconvenient for Trade; whereupon they made a Law under severest penal<g ref="char:EOLhyphen"/>ties, that none should sel his credit in the Bank for above twenty pounds <hi>per cent.</hi> profit; and so it continues at this day, with much ado to be kept at that rate.</p>
+            <p>If any question how this is possible? I answer There is but two Millions of Ducates in the Bank, which is lesser than the trade of <hi>Venice</hi> requires, to answer the payments ordered by the Signiorie to be made there: Hence it is, when the Bank is open, (which is four hours in every day) there are several Brokers, attending, so soon as any Credit is transmitted, to ask the new Creditor whether he will sel his Credit at the Market Price, and will presently pay him <hi>in Specie</hi> a hundred and twenty pounds, the usual rate for a hundred pounds credit, or as the Market goes.</p>
+            <pb n="3" facs="tcp:205745:3"/>
+            <p> This is matter of Fact, and if any person doubts the Truth of it, I shall be ready to produce several <hi>Venetian</hi> Meachants, that have lived many years upon the place, and made it their business, to un<g ref="char:EOLhyphen"/>derstand the nature and constitution of this Bank, called, <hi>Banco de al gero;</hi> A Bank of transfering Credit: who will assert the truth of this Narra<g ref="char:EOLhyphen"/>tive.</p>
+            <p>I shall not need to tell any intelligent Person, what benefit this Bank is to that State. First, there is the Interest of Two Millions of Duccates sa<g ref="char:EOLhyphen"/>ved; these the Signiori used, and gave only their Publick Faith, these should be repaied, when need should require; which is never like to be, to the end of the World.</p>
+            <p>Either the Creditor will desire their mony in Peace or War: But they have not yet, in either of these cases desired it. In Peace to be sure it; better in the Bank, than Cash <hi>in specie,</hi> by Twen<g ref="char:EOLhyphen"/>ty in the hundred. They have not, and its like will not, desire mony <hi>in specie,</hi> in a time of War, then it is not to be had, if the War be chargeable.</p>
+            <p>Every wise man knows, as soon as the War is over, let it end how it will, the Credit will return to be currant. The Conqueror (though it should be the <hi>Turk</hi> himself,) would probably continue the Bank: for otherwise, he loses two Millions of Duccates of the running Cash of the Nation, in destroying the Bank, it is all one, as if he should cause the People to raise two Millions of Duccates and cast them into the Sea.</p>
+            <p>This is a Second, and a considerable advantage of this Bank at <hi>Venice;</hi> when the Signiorie took out the Duccates that lay dead in the Bank, they
+<pb n="4" facs="tcp:205745:3"/>added Two Millions of Duccates to running Cash of their State; now it is risen to Twenty in the Hundred change: there is an augmentation of above Three hundred thousand Duccates more.</p>
+            <p>I may add to these, the incredible convenien<g ref="char:EOLhyphen"/>cy of Exchanging of Mony, where a Merchant may write off more Credit in a quarter of an hour, than any Merchant in <hi>London,</hi> can tell in a week.</p>
+            <p>Those that would understand more of the ad<g ref="char:EOLhyphen"/>vantages of Banks, and of the excellency of Bank-mony, may peruse my larger Proposals to the King and Parliament, of Erecting a Bank, wherein I de<g ref="char:EOLhyphen"/>monstrated, That Credit in Bank is more Safe, more Portable, and more Transferable than Cash <hi>in spe<g ref="char:EOLhyphen"/>cie;</hi> and so is better, as Gold, for these reasons, is better than Silver.</p>
+            <p>The great Things, every one will expect, is to shew, how such Banks may be set up in <hi>England,</hi> as the Bank at <hi>Venice</hi> is; with the same advantage to us, as their Bank is to them: I think this may be done in a few words.</p>
+            <p>There is a necessity of raising One hundred and six<g ref="char:EOLhyphen"/>ty thousand pounds <hi>per</hi> Moneth, for the Charge of a present War. Suppose this be done by a Land Tax, every Parish to pay in their proportion at the end of every three Moneths for one Year.</p>
+            <p>Erect Banks in every County-Town to receive this Mony of the Collectors of every Parish for the Kings use, and the Banker shall give to every Collector a Bill of Credit, that the Country is in<g ref="char:EOLhyphen"/>debted to him so much mony, as he paies; sup<g ref="char:EOLhyphen"/>pose the <hi>Quota</hi> of a Parish, collected of the seve<g ref="char:EOLhyphen"/>ral Inhabitants to be Fifty pound; the Collector receives from the Bankers a Bill of Fifty pounds,
+<pb n="5" facs="tcp:205745:4"/>or five Bills of Ten pounds a Bill; or Ten Bills of Five pound a Bill, as he judges convenient, and the Collector distributes these to the Neighbour<g ref="char:EOLhyphen"/>hood according to their proportions, as they have paid to this rate.</p>
+            <p>The Parliament makes these Bills to pass, as cuarant Mony; and that they may be more use<g ref="char:EOLhyphen"/>ful, the Parliament makes them Transferable, and gives their Publick Faith; this Mony shall be raised <hi>in specie,</hi> if ever it be desired, to answer all Bill of Credit, in whose hands soever they shall be found.</p>
+            <p>These Constitutions run Paralel with those at <hi>Venice,</hi> and will make as good a Fund, as that Bank hath; the Credit, at the first setting up, will be as good as Mony, and afterwards, may be of better value, as the Bsnk at <hi>Venice</hi> is. I can see no difference, nor any inconveniencie, these Banks will be liable to here, more than they are there; there is not any inconvenience, or material cir<g ref="char:EOLhyphen"/>cumstance I can think of, that will impede the setting up these Banks here, that the Bank at <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> is not liable to.</p>
+            <p>Ab esse ad posse valet Argumentum.</p>
+            <p>That which is done in one place, may be done in another, where Circumstances do not vary. This is a <hi>medium,</hi> all will subscribe to; and that this is our Case, will appear from that which follolws.</p>
+            <p>Object. <hi>The Publick faith is no good security: The Parliament may not meet, if they do, they may alter their Laws in this case.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> I do not see why the publick Faith here may not be as good security as it is any-where else.</p>
+            <pb n="6" facs="tcp:205745:4"/>
+            <p> I have fully answered in my larger Discourse all that can be said against a Monarchy.</p>
+            <p>
+               <hi>Answ.</hi> 2. We may as well say when the Parlia<g ref="char:EOLhyphen"/>ment meets, they shall all agree every one to cut his own throat.</p>
+            <p>
+               <hi>Answ.</hi> 3. The Security for these Bills of Credit will be as good, as that we have for our Lives Li<g ref="char:EOLhyphen"/>berties or Estates: All are at the Mercy of the Parliament, to be disposed of as they please.</p>
+            <p>Object. <hi>Suppose these Bills of Credit should be worse than Money?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> They need not, as things may be orde<g ref="char:EOLhyphen"/>red; if they should, they would be better than nothing at all: The two Millions of Money must be raised, when the Parliament sees they cannot keep up the value of their Credit; they may re<g ref="char:EOLhyphen"/>vive it, by making a Law to raise the Money gra<g ref="char:EOLhyphen"/>dually, as the Nation can bear it. This will give their Bills reputation again; as we find by experi<g ref="char:EOLhyphen"/>ence, the Credit upon the last Act of Parliament is as valuable as Money; because there is a set time when every man knows he shall have his Money. In the mean time our present necessities are sup<g ref="char:EOLhyphen"/>plyed, and we have so much Money added to the running Cash of the Nation, without interest, so long as these Bills pass currant.</p>
+            <p>Admit the Credit should dwindle to nothing by degrees (which cannot rationally be imagined) the decay would be gradual, it would not undo many men, no more than Farthings cried down▪ were much felt by those that had them.</p>
+            <p>Object. <hi>It would be better to raise</hi> 170000 <hi>pound yearly on the Nation by a Tax, and to take up two mil<g ref="char:EOLhyphen"/>lions at Interest at seven in the hundred.</hi>
+            </p>
+            <pb n="7" facs="tcp:205745:5"/>
+            <p>
+               <hi>Answ.</hi> If Foreiners bring it in, the Interest will eat us up. If Natives advance it, there is no in<g ref="char:EOLhyphen"/>crease of the running Cash of the Nation.</p>
+            <p>I question whether they will do it or no? for their Security is no better than the Fund of the cre<g ref="char:EOLhyphen"/>dit I propose.</p>
+            <p>Admit they will do it, when they need not, it is all I beg, to prove what I propose is Rational and Practical.</p>
+            <p>How these Bills may be so ordered, that it will be impossible to counterfeit them: How the Charge of these Offices may be born: How these Banks may flourish under a Monarchy, with seve<g ref="char:EOLhyphen"/>ral other Particulars, I have fully set forth in a larger Discourse, called, <hi>Proposals to the King and Parliament, concerning a larger Model of a Bank</hi> (Soldby <hi>Henry Million,</hi> at the Bible in <hi>Fleetstreet,</hi> to which I refer those that desire further satisfa<g ref="char:EOLhyphen"/>ction.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205745:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
